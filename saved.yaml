@@ -1,26 +1,22 @@
 ---
 - !ruby/object:Hangman
-  choosen_word: stanchioned
+  choosen_word: illegality
 - !ruby/object:Player
   arr_correct:
-  - s
-  - t
+  - _
+  - _
+  - _
+  - _
+  - g
   - a
   - _
   - _
   - _
-  - i
   - _
-  - _
-  - _
-  - d
   arr_incorect:
-  - y
+  - s
+  - d
   - f
-  - r
-  - g
-  - u
-  - r
-  - g
-  - r
-- 14
+  - h
+  - s
+- 8

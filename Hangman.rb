@@ -14,7 +14,7 @@ class Hangman
    	@choosen_word = str[rand(0..str.length)].strip.downcase
     end
    
-end
+  end
 
   def game_win(arr_correct_words)
   	if choosen_word == arr_correct_words.join
@@ -38,7 +38,6 @@ end
  	puts yaml
  	game_file.close
  	YAML::load(yaml)
-
  end
 
 end

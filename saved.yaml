@@ -1,0 +1,26 @@
+---
+- !ruby/object:Hangman
+  choosen_word: stanchioned
+- !ruby/object:Player
+  arr_correct:
+  - s
+  - t
+  - a
+  - _
+  - _
+  - _
+  - i
+  - _
+  - _
+  - _
+  - d
+  arr_incorect:
+  - y
+  - f
+  - r
+  - g
+  - u
+  - r
+  - g
+  - r
+- 14

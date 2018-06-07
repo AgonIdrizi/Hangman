@@ -1,22 +1,12 @@
----
-- !ruby/object:Hangman
-  choosen_word: illegality
-- !ruby/object:Player
+--- !ruby/object:Hangman
+choosen_word: slink
+player: !ruby/object:Player
   arr_correct:
-  - _
-  - _
-  - _
-  - _
-  - g
-  - a
+  - s
   - _
   - _
   - _
   - _
   arr_incorect:
-  - s
-  - d
-  - f
   - h
-  - s
-- 8
+  - a

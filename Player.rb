@@ -19,4 +19,5 @@ class Player
  puts "Incorrect words typed: #{arr_incorect.join}"
   end
 
+
 end
